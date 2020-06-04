@@ -1,11 +1,44 @@
-{
-    "posts": [
-        {
-            "id": 1,
-            "title": "TodoList"
-        }
-    ],
-    "profile": {
-        "name": "typicode"
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "Todo-List (React)",
+        "completed": false
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "title": "Weather Finder (React)",
+        "completed": false
+    },
+    {
+        "userId": 1,
+        "id": 3,
+        "title": "Cooking recipe app (Flutter)",
+        "completed": false
+    },
+    {
+        "userId": 1,
+        "id": 4,
+        "title": "Google map integration (React)",
+        "completed": true
+    },
+    {
+        "userId": 1,
+        "id": 5,
+        "title": "Person list app (Flutter)",
+        "completed": true
+    },
+    {
+        "userId": 1,
+        "id": 6,
+        "title": "Kerala Tourist guide (Flutter)",
+        "completed": true
+    },
+    {
+        "userId": 1,
+        "id": 7,
+        "title": "Movie dashboard (React)",
+        "completed": true
     }
-}
+]
