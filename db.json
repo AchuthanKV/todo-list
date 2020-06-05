@@ -4,7 +4,7 @@
             "userId": 1,
             "id": 1,
             "title": "Todo-List (React)",
-            "completed": false
+            "completed": true
         },
         {
             "userId": 1,
@@ -34,12 +34,36 @@
             "userId": 1,
             "id": 6,
             "title": "Kerala Tourist guide (Flutter)",
-            "completed": true
+            "completed": false
         },
         {
             "userId": 1,
             "id": 7,
             "title": "Movie dashboard (React)",
+            "completed": true
+        },
+        {
+            "userId": 1,
+            "id": 8,
+            "title": "Match Game (React)",
+            "completed": true
+        },
+        {
+            "userId": 1,
+            "id": 9,
+            "title": "Render carousel (React)",
+            "completed": true
+        },
+        {
+            "userId": 1,
+            "id": 10,
+            "title": "Calendar App (Flutter)",
+            "completed": true
+        },
+        {
+            "userId": 1,
+            "id": 11,
+            "title": "Progress Indicator (Flutter)",
             "completed": true
         }
     ],
