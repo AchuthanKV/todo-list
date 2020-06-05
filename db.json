@@ -40,13 +40,13 @@
             "userId": 1,
             "id": 7,
             "title": "Movie dashboard (React)",
-            "completed": true
+            "completed": false
         },
         {
             "userId": 1,
             "id": 8,
             "title": "Match Game (React)",
-            "completed": true
+            "completed": false
         },
         {
             "userId": 1,
