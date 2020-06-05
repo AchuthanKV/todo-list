@@ -58,13 +58,13 @@
             "userId": 1,
             "id": 10,
             "title": "Calendar App (Flutter)",
-            "completed": true
+            "completed": false
         },
         {
             "userId": 1,
             "id": 11,
             "title": "Progress Indicator (Flutter)",
-            "completed": true
+            "completed": false
         }
     ],
     "profile": {
